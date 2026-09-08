@@ -3,3 +3,9 @@
 # Project Highlights:
 #### -Implemented Linux kernel code in C in a team of 3 to track, monitor, and make reservations for simulated tasks using rate monotonic and partitioned EDF scheduling
 #### -Evaluated performance by calculating end-to-end latency of simulated task chains and tracking budget overspend
+
+## Note: This project was completed as the main focus of my CS596 RTOS class and included work from the following people:
+#### -Jake de los Reyes (SDSU CS student, me)
+#### -Justin Pelak (SDSU CS student, group member)
+#### -Cameron Ho (SDSU CS student, group member)
+#### -Dr. Hyunjong Choi (SDSU Assistant Professor of Computer Science, instructor)
